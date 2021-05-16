@@ -1,0 +1,13 @@
+D:\work\work.test\bin\Debug\netcoreapp3.1\work.test.exe
+D:\work\work.test\bin\Debug\netcoreapp3.1\work.test.deps.json
+D:\work\work.test\bin\Debug\netcoreapp3.1\work.test.runtimeconfig.json
+D:\work\work.test\bin\Debug\netcoreapp3.1\work.test.runtimeconfig.dev.json
+D:\work\work.test\bin\Debug\netcoreapp3.1\work.test.dll
+D:\work\work.test\bin\Debug\netcoreapp3.1\work.test.pdb
+D:\work\work.test\obj\Debug\netcoreapp3.1\work.test.csprojAssemblyReference.cache
+D:\work\work.test\obj\Debug\netcoreapp3.1\work.test.AssemblyInfoInputs.cache
+D:\work\work.test\obj\Debug\netcoreapp3.1\work.test.AssemblyInfo.cs
+D:\work\work.test\obj\Debug\netcoreapp3.1\work.test.csproj.CoreCompileInputs.cache
+D:\work\work.test\obj\Debug\netcoreapp3.1\work.test.dll
+D:\work\work.test\obj\Debug\netcoreapp3.1\work.test.pdb
+D:\work\work.test\obj\Debug\netcoreapp3.1\work.test.genruntimeconfig.cache

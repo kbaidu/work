@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work\\work.csproj": {}
+    "D:\\work\\work.test\\work.test.csproj": {}
   },
   "projects": {
-    "D:\\work\\work.csproj": {
+    "D:\\work\\work.test\\work.test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\work.csproj",
-        "projectName": "work",
-        "projectPath": "D:\\work\\work.csproj",
+        "projectUniqueName": "D:\\work\\work.test\\work.test.csproj",
+        "projectName": "work.test",
+        "projectPath": "D:\\work\\work.test\\work.test.csproj",
         "packagesPath": "C:\\Users\\sunjunwei\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\obj\\",
+        "outputPath": "D:\\work\\work.test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sunjunwei\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -35,12 +35,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

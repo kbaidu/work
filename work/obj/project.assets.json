@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\work\\work.csproj",
+      "projectUniqueName": "D:\\work\\work\\work.csproj",
       "projectName": "work",
-      "projectPath": "d:\\work\\work.csproj",
+      "projectPath": "D:\\work\\work\\work.csproj",
       "packagesPath": "C:\\Users\\sunjunwei\\.nuget\\packages\\",
-      "outputPath": "d:\\work\\obj\\",
+      "outputPath": "D:\\work\\work\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sunjunwei\\AppData\\Roaming\\NuGet\\NuGet.Config"

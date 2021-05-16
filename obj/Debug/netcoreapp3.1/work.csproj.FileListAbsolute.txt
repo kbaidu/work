@@ -1,0 +1,15 @@
+D:\work\bin\Debug\netcoreapp3.1\work.exe
+D:\work\bin\Debug\netcoreapp3.1\work.deps.json
+D:\work\bin\Debug\netcoreapp3.1\work.runtimeconfig.json
+D:\work\bin\Debug\netcoreapp3.1\work.runtimeconfig.dev.json
+D:\work\bin\Debug\netcoreapp3.1\work.dll
+D:\work\bin\Debug\netcoreapp3.1\work.pdb
+D:\work\obj\Debug\netcoreapp3.1\work.csprojAssemblyReference.cache
+D:\work\obj\Debug\netcoreapp3.1\work.AssemblyInfoInputs.cache
+D:\work\obj\Debug\netcoreapp3.1\work.AssemblyInfo.cs
+D:\work\obj\Debug\netcoreapp3.1\work.csproj.CoreCompileInputs.cache
+D:\work\obj\Debug\netcoreapp3.1\work.dll
+D:\work\obj\Debug\netcoreapp3.1\work.pdb
+D:\work\obj\Debug\netcoreapp3.1\work.genruntimeconfig.cache
+D:\work\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\work\obj\Debug\netcoreapp3.1\work.csproj.CopyComplete

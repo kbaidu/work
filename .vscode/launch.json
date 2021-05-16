@@ -1,0 +1,28 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [       
+        
+        {
+            "name": "调试ConsoleApp", //修改下命令
+            "type": "coreclr",
+            "request": "launch",//F5调试本质就是，用户向vscode发起了launch请求，请求的参数是在launch.json中配置好的
+            "preLaunchTask": "build", //修改前置任务名和task.json中配置一致
+            "program": "${workspaceRoot}\\bin\\Debug\\netcoreapp3.1\\work.dll",//要调试的目标程序
+            "args": [],
+            "cwd": "${workspaceRoot}",//工作目录
+            "externalConsole":false, //使用外置的控制台
+            "stopAtEntry": false,
+            "internalConsoleOptions": "openOnSessionStart"
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach",
+            "processId": "${command:pickProcess}"
+        }
+
+    ]
+}
